@@ -104,3 +104,12 @@ ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=4'
 
 export PATH=$PATH:/usr/local/go/bin
 export PATH=$PATH:/tmp/rust_install_fteue_gp/bin
+export PASSW=""
+export EUSER="agalmameyassine@gmail.com"
+export pass=""
+export ZOHOPASS=""
+export ZOHOUSER="admin@sajacosmetics.com" 
+export API_URI='http://localhost:8000/graphql/'
+export APP_MOUNT_URI='/dashboard/'
+export STATIC_URL="http://localhost:9000/"
+
