@@ -344,11 +344,7 @@
   344  sudo systemctl status supervisor
   345  sudo less /var/log/saja/saja.err.log 
 
-object storage:
-	acceskey:V362KOJSGAD0AL88UVIH                                           /home/codylia/.local/bin
-	secretKey:gRqh9DCS9CHoC5EAABAbUuyhuoxMI0ndxCBwCGWq
-linode(object storage w-r):
-	secretkey:b7eafe84feae8704367498374b2f2af5df18147dbf5283b640239f05581b8b71
+
 
 
 
